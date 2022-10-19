@@ -17,7 +17,7 @@ export default function Home() {
         <div className="max-w-4xl  px-10 ">
           <p className="font-medium text-md md:text-lg leading-6 text-black tracking-normal sm:tracking-wider text-center">
             A Telecoms infrastructure company with a commitment to meet your
-            business connectivity needs and connect you at the speed of light
+            business connectivity needs and connect you at the speed of light.
           </p>
         </div>
       </div>
